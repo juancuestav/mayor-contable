@@ -1,0 +1,11 @@
+/* Bootstrap */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* Bootstrap icons */
+@import "~bootstrap-icons/font/bootstrap-icons";
+
+/* Tabulator listado */
+@import "./tabulator.css";
+
+/* Variables */
+@import "./variables.css";
